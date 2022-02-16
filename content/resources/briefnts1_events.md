@@ -3,8 +3,13 @@ content_type: resource
 description: 'This file discusses the topics: Definitions, Operations with events,
   Properties of events, Probability of events, Conditional Probability, and Total
   Probability Theorem.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-151-probability-and-statistics-in-engineering-spring-2005/4d15539bf8b078b782b12148f5122dd8_briefnts1_events.pdf
+file: /media/courses/1-151-probability-and-statistics-in-engineering-spring-2005/4d15539bf8b078b782b12148f5122dd8_briefnts1_events.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: briefnts1_events.pdf
 uid: 4d15539b-f8b0-78b7-82b1-2148f5122dd8
