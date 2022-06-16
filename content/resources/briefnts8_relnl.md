@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses the topic 'Relationships between Mean and Variance
   of Normal and Lognormal Distributions'.
-file: /media/courses/1-151-probability-and-statistics-in-engineering-spring-2005/9521f25e7e59f284ea67a089187baf56_briefnts8_relnl.pdf
+file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/9521f25e7e59f284ea67a089187baf56_briefnts8_relnl.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: briefnts8_relnl.pdf
 uid: 9521f25e-7e59-f284-ea67-a089187baf56
 ---
+This file discusses the topic 'Relationships between Mean and Variance of Normal and Lognormal Distributions'.
+
