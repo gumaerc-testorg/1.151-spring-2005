@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains the course description, and information
+  about the recommended text book.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: b8be57a6-b609-027d-5f52-9d3132a71327
 ---
