@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/7e63e
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: homework_2_2005.pdf
 uid: 7e63e125-9a2f-ea62-cceb-cc6807031f8d
 ---
 This resource includes the asignment based on the topics: Random Variables and Vectors, Discrete and Continuous Probability Distributions.
-

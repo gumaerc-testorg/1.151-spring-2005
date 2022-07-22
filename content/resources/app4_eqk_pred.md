@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/16a1f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: app4_eqk_pred.pdf
 uid: 16a1fd57-17d3-1f10-283a-db1acbcd28c4
 ---
 This file discusses the topic 'Earthquake Prediction from Imperfect Premonitory Signs'.
-

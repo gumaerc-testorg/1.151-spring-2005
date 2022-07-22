@@ -5,6 +5,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/a3d43
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz1_2005_soln.pdf
 uid: a3d43fa1-7501-9524-b1d3-a1509e0f4848
 ---
 This file contains the solutions to the questions asked in Quiz 1.
-

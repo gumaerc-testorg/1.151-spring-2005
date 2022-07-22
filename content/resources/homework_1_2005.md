@@ -7,6 +7,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/9b297
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: homework_1_2005.pdf
 uid: 9b297221-4057-0e99-c467-70043be53586
 ---
 This resource includes assignments based on the following topics: Events and their Probability, Elementary Operations with Events, Total Probability Theorem, Independence, Bayes' Theorem.
-

@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/9e8bf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: app11_max.pdf
 uid: 9e8bfd1f-bd09-8795-f1fc-ca9188369d05
 ---
 This file contains the notes on the topic 'Distribution of the Maximum of Independent Identically-Distributed Variables'.
-

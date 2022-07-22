@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/07f7c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: briefnts5_funct.pdf
 uid: 07f7c433-6039-bf4a-a652-6d711ba1e4e2
 ---
 This file discusses the functions of one random variable, and function of two or more variables.
-

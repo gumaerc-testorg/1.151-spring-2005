@@ -7,6 +7,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/ada58
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: app19_fin_regs.pdf
 uid: ada58081-0f06-295d-e7d7-6f3336393fcd
 ---
 This file discusses the topics: Fitting a Simple Linear Regression Model, Testing the Statistical Significance of the Regression, and Comments on the Appropriateness of the Modeling Assumptions.
-

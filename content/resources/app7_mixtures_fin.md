@@ -5,6 +5,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/d5111
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: app7_mixtures_fin.pdf
 uid: d5111c43-7aaa-2c41-6398-8ed134eb0a9a
 ---
 This file discusses the topic 'Distribution Mixtures'.
-

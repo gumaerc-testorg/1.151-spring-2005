@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/bada5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: briefnts2_disdbn.pdf
 uid: bada5e21-a3a2-4f6e-95ed-8899db5ec884
 ---
 This file discusses the topics: Discrete Distributions, Examples of Discrete Probability Distributions, and poisson distributions.
-

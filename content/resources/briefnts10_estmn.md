@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/55a20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: briefnts10_estmn.pdf
 uid: 55a20fd0-762d-6843-6582-2a2a0d17ce85
 ---
 This file contains the notes for chi square distribution, F distribution, and t distribution.
-

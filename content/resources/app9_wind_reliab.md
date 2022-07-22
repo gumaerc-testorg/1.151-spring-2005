@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/fbeec
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: app9_wind_reliab.pdf
 uid: fbeec956-705e-c6d5-c886-d1b48528c4f0
 ---
 This file discusses 'Reliability of a Building Under Extreme Wind Loads - Choosing The Design Wind Speed' using independent random variables.
-

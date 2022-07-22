@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/fd612
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: app17_slope_rel.pdf
 uid: fd612bc6-7f22-ffcd-5e48-03257e38024b
 ---
 This file discusses the topics: First-Order Second-Moment (FOSM) Reliability Index, Second-Moment (SM) Reliability Index,and Monte Carlo Simulation.
-

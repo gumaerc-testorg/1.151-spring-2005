@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/447eb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: app8_hazard_func.pdf
 uid: 447ebaa4-f54b-6242-2663-cbde5e41b9ea
 ---
 This file discusses the reliability of old and new items using the hazard function.
-

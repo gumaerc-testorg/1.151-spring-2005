@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/27d89
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: briefnts3_contdb.pdf
 uid: 27d89892-3f62-e3af-09ad-c336db379869
 ---
 This file discusses continuous distributions, examples of probability continuous distributions, exponential distribution, and hazard distribution.
-

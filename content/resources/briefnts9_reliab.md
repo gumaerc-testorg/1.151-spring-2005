@@ -5,6 +5,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/0652a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: briefnts9_reliab.pdf
 uid: 0652a012-3869-f9e2-2542-7deeeadb2daf
 ---
 This file discusses the topic 'Calculation of Reliability Index, Beta'.
-

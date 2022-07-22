@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/80204
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: app16_rain_pred.pdf
 uid: 80204617-900c-e160-e8b1-4a094c10880b
 ---
 This file discusses the topics: Conditional Distribution Results for Jointly Normal Vectors, and Prediction of Daily Temperatures.
-

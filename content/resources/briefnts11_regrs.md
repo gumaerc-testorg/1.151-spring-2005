@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/eaac6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: briefnts11_regrs.pdf
 uid: eaac6fce-f110-21b4-d575-8083c31798a8
 ---
 This file discusses the topics Simple Linear Regression, and Multiple Linear Regression.
-

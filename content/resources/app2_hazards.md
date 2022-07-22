@@ -5,6 +5,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/eded9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: app2_hazards.pdf
 uid: eded921a-16f7-3360-53ee-400d2e8038d6
 ---
 This file discusses the topic 'Evaluation of Natural and Man-Made Risks'.
-

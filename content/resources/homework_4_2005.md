@@ -6,6 +6,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/83fec
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: homework_4_2005.pdf
 uid: 83fec473-8262-0c30-f114-1ed0e6000e79
 ---
 This resource includes problems based on the following topics: Functions of Random Variables and Derived Distributions.
-

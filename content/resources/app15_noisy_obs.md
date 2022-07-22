@@ -7,6 +7,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/c6d71
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: app15_noisy_obs.pdf
 uid: c6d71d65-40a6-c7ec-965e-94ca5358ffd0
 ---
 This file discusses the topics: Conditional Distributions of Variables with Joint Normal Distribution, Application to Noisy Observations, and Best Linear Unbiased Estimation (BLUE) Theory.
-

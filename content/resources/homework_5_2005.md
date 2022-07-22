@@ -7,6 +7,7 @@ file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/6c786
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: homework_5_2005.pdf
 uid: 6c786b20-02c1-204e-b865-f8c9498c47af
 ---
 This resource contains the problems based on the following topics: Expectation of Random Variables and Functions of Random Variables, Moments of Variables and Vectors.
-
