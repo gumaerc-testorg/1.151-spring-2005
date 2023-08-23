@@ -29,4 +29,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource includes information on series and parallel systems, m-out-of-n systems, more complicated system configurations, and systems that share the load.
-
