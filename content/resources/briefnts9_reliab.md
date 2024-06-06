@@ -2,6 +2,7 @@
 content_type: resource
 description: This file discusses the topic 'Calculation of Reliability Index, Beta'.
 file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/0652a0123869f9e225427deeeadb2daf_briefnts9_reliab.pdf
+file_size: 50118
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

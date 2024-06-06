@@ -4,6 +4,7 @@ description: This resource includes information on series and parallel systems, 
   systems, more complicated system configurations, and systems that ?share the load.?
 draft: false
 file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/39650745d241175c8557bdefc67f676b_app1_reli_final.pdf
+file_size: 492949
 file_type: application/pdf
 image_metadata:
   caption: ''

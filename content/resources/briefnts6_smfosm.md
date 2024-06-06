@@ -3,6 +3,7 @@ content_type: resource
 description: This file discusses the second moment(SM) and first-order-second-moment
   (FOSM)propagation of uncertainty.
 file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/71f8cfc8b5f975d0753d364b49806bb3_briefnts6_smfosm.pdf
+file_size: 415502
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
