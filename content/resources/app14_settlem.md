@@ -2,6 +2,7 @@
 content_type: resource
 description: This file explains the mechanical model,and analysis of uncertainty.
 file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/af9003169553e8bd8c8b9ac86525c376_app14_settlem.pdf
+file_size: 169892
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

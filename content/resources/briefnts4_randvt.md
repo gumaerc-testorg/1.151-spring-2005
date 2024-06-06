@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file discusses the topics: Discrete Random Vectors, Continuous
   Random Vectors, Independent Random Variables.'
 file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/c9dde95134bd6113e5a5186bc9541a29_briefnts4_randvt.pdf
+file_size: 196367
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

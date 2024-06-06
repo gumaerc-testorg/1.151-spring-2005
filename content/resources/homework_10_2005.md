@@ -4,6 +4,7 @@ description: 'This resource contains 4 problem statements based on the following
   Point Estimation of Distribution Parameters: Methods of Moments and Maximum Likelihood,
   Bayesian Analysis.'
 file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/99126d861d9b4e42d85f558ffdc6478d_homework_10_2005.pdf
+file_size: 53201
 file_type: application/pdf
 learning_resource_types:
 - Assignments

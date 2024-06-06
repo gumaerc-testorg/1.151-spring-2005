@@ -2,6 +2,7 @@
 content_type: resource
 description: This file discusses the topic 'Evaluation of Natural and Man-Made Risks'.
 file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/eded921a16f7336053ee400d2e8038d6_app2_hazards.pdf
+file_size: 160350
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

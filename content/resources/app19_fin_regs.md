@@ -4,6 +4,7 @@ description: 'This file discusses the topics: Fitting a Simple Linear Regression
   Testing the Statistical Significance of the Regression, and Comments on the Appropriateness
   of the Modeling Assumptions.'
 file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/ada580810f06295de7d76f3336393fcd_app19_fin_regs.pdf
+file_size: 62637
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
