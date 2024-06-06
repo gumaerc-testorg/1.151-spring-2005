@@ -4,6 +4,7 @@ description: This file discusses the topic 'Is the Series of Rainy/Non-Rainy Day
   a Bernoulli Trial Sequence?' on the basis of Bernoulli trial sequence and dependence
   in binary time series.
 file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/0ee92b3cf4331b9dac9ac0fbe1ea53da_app5_rain_norain.pdf
+file_size: 148457
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

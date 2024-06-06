@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains 2 problems based on: Conditional Second Moment
   Analysis.'
 file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/ac58c882b974f870e117e5d896c1ccd3_homework_7_2005.pdf
+file_size: 97083
 file_type: application/pdf
 learning_resource_types:
 - Assignments

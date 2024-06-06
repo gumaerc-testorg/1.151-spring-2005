@@ -4,6 +4,7 @@ description: 'This resource contains four problems based on the following topics
   Expectation of Random Variables and Functions of Random Variables, Moments of Variables
   and Vectors.'
 file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/064204f71301507ddc6e5c86acca7bd8_homework_6_2005.pdf
+file_size: 108681
 file_type: application/pdf
 learning_resource_types:
 - Assignments
