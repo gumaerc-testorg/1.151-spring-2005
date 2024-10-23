@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file discusses the topic 'Distribution Mixtures'.
-file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/d5111c437aaa2c4163988ed134eb0a9a_app7_mixtures_fin.pdf
+file: /ol-ocw-studio-app/courses/1-151-probability-and-statistics-in-engineering-spring-2005/d5111c437aaa2c4163988ed134eb0a9a_app7_mixtures_fin.pdf
 file_size: 167935
 file_type: application/pdf
 learning_resource_types:
