@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses the functions of one random variable, and function
   of two or more variables.
-file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/07f7c4336039bf4aa6526d711ba1e4e2_briefnts5_funct.pdf
+file: /ol-ocw-studio-app/courses/1-151-probability-and-statistics-in-engineering-spring-2005/07f7c4336039bf4aa6526d711ba1e4e2_briefnts5_funct.pdf
 file_size: 348660
 file_type: application/pdf
 learning_resource_types:
