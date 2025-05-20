@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses the topic 'Earthquake Prediction from Imperfect Premonitory
   Signs'.
-file: /ol-ocw-studio-app/courses/1-151-probability-and-statistics-in-engineering-spring-2005/16a1fd5717d31f10283adb1acbcd28c4_app4_eqk_pred.pdf
+file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/16a1fd5717d31f10283adb1acbcd28c4_app4_eqk_pred.pdf
 file_size: 122921
 file_type: application/pdf
 learning_resource_types:

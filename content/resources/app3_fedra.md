@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses the bayes' theorem on the basis of the topic 'Extra-Terrestrial
   Life and the Design of Experiments'.
-file: /ol-ocw-studio-app/courses/1-151-probability-and-statistics-in-engineering-spring-2005/63362fb1b080e06926bbe58383b87367_app3_fedra.pdf
+file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/63362fb1b080e06926bbe58383b87367_app3_fedra.pdf
 file_size: 124105
 file_type: application/pdf
 learning_resource_types:
