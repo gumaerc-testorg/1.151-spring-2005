@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the notes for chi square distribution, F distribution,
   and t distribution.
-file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/55a20fd0762d684365822a2a0d17ce85_briefnts10_estmn.pdf
+file: /ol-ocw-studio-app/courses/1-151-probability-and-statistics-in-engineering-spring-2005/55a20fd0762d684365822a2a0d17ce85_briefnts10_estmn.pdf
 file_size: 227175
 file_type: application/pdf
 learning_resource_types:
