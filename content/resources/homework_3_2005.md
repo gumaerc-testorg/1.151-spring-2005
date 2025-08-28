@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes problems based on the following topics: Random
   Variables and Vectors, Discrete and Continuous Probability Distributions.'
-file: /courses/1-151-probability-and-statistics-in-engineering-spring-2005/f192877d33886165bf874c0e55333863_homework_3_2005.pdf
+file: /ol-ocw-studio-app/courses/1-151-probability-and-statistics-in-engineering-spring-2005/f192877d33886165bf874c0e55333863_homework_3_2005.pdf
 file_size: 112200
 file_type: application/pdf
 learning_resource_types:
